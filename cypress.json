@@ -1,0 +1,11 @@
+{
+"reporter": "mochawesome",
+  "reporterOptions": {
+    "reportTitle": "SStream-Client Test",
+    "inline": true,
+    "cdn": true,
+    "timestamp": "m/d/yyyy, h:MM:ss TT",
+    "reportFilename": "TestResults",
+    "reportDir": "cypress/reports"
+  }
+}

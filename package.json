@@ -1,0 +1,25 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.1.0",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenchan9/cypressTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenchan9/cypressTest/issues"
+  },
+  "homepage": "https://github.com/stephenchan9/cypressTest#readme"
+}
